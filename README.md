@@ -1,5 +1,5 @@
 # newsFeedCreation
-Have inserted and fetched data from MSSQL server from tables mentioned in Schema design.
+Have inserted and fetched data from MSSQL server through tables mentioned in Schema design.
 
 To execute 'newsFeedActions.py' file:
 1) Open VS Code
