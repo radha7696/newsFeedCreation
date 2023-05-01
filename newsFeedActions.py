@@ -553,7 +553,7 @@ class newsFeed():
         self.dbConnectionShowNewsFeed(self.un)
 
 if __name__=="__main__":
-    Q = int(input("Enter numbers of actions to be performed: "))
+    Q = int(input("Enter number of actions to be performed: "))
     obj = newsFeed()
     for _ in range(Q):
         num = int(input("Enter number from following options: (1 for SignUp; 2 for Login; 3 for Posting; 4 for Following; 5 for Commenting; 6 for Replying; 7 for voting Post; 8 for voting Comment; 9 for post timestamp; 10 for comment timestamp; 11 for show NewsFeed) : "))
